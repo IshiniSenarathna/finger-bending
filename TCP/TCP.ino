@@ -1,7 +1,7 @@
 #include <WiFi.h>
 
-const char* ssid = "SLT_FIBRE518";
-const char* password = "2261518RK";
+const char* ssid = username ;
+const char* password =password ;
 
 
 WiFiServer server(12345);
